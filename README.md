@@ -1,6 +1,6 @@
 # Hi, I'm Vijay 👋
 
-Cloud Security Architect focused on designing secure cloud platforms, DevSecOps pipelines, and AI-enabled systems across modern cloud environments.
+Cloud Security Architect specializing in secure cloud platforms, DevSecOps pipelines, and AI security architectures across GCP, AWS, and Azure.
 
 I work at the intersection of **cloud security, platform engineering, and AI security**, helping organizations build scalable infrastructure while keeping identity, data, and workloads protected.
 
