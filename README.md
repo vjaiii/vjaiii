@@ -1,62 +1,68 @@
 # Hi, I'm Vijay 👋
 
-Cloud Solutions Architect focused on building secure cloud platforms, DevSecOps pipelines, and AI-enabled systems across modern cloud environments.
+Cloud Security Architect focused on designing secure cloud platforms, DevSecOps pipelines, and AI-enabled systems across modern cloud environments.
+
+I work at the intersection of **cloud security, platform engineering, and AI security**, helping organizations build scalable infrastructure while keeping identity, data, and workloads protected.
 
 ---
 
-## What I work on
+## What I focus on
 
 Cloud Security Architecture  
 DevSecOps and Secure CI/CD  
 Terraform and Infrastructure as Code  
 Kubernetes and Container Security  
-AI / GenAI Security Patterns  
+AI / GenAI Security Architecture  
 Multi-Cloud Platforms (GCP • AWS • Azure)
 
 ---
 
 ## Featured Repositories
 
-🔹 GenAI Cloud Security Patterns  
-Practical security considerations for LLM systems, RAG architectures, and AI workloads.
+🔹 **GenAI Cloud Security Patterns**  
+Security considerations and architecture patterns for LLM systems, RAG architectures, and AI workloads.
 
-🔹 Terraform Cloud Security Blueprints  
-Reference Terraform structures for building secure cloud foundations.
+🔹 **Terraform Cloud Security Blueprints**  
+Reference Terraform structures for building secure cloud foundations across GCP, AWS, and Azure.
 
-🔹 DevSecOps Security Pipeline Patterns  
-Secure CI/CD workflows with integrated security checks.
+🔹 **DevSecOps Security Pipeline Patterns**  
+Secure CI/CD workflows integrating SAST, IaC scanning, container security, and policy checks.
 
-🔹 Cloud Security Architecture Patterns  
-Architecture patterns for designing secure enterprise cloud platforms.
+🔹 **Cloud Security Architecture Patterns**  
+Design patterns for secure enterprise cloud platforms and zero-trust architectures.
 
-🔹 Kubernetes Security Hardening Guide  
-Workload security and runtime protection strategies.
+🔹 **Kubernetes Security Hardening Guide**  
+Workload security, runtime protection, and cluster security practices.
 
-🔹 Cloud Incident Response Playbooks  
-Practical incident response guidance for cloud environments.
+🔹 **Cloud Incident Response Playbooks**  
+Practical response playbooks for cloud security incidents and investigations.
 
 ---
 
 ## Areas of Interest
 
-AI Security  
+AI / GenAI Security  
 Cloud Platform Security  
-Zero Trust Architectures  
-Secure Infrastructure Automation  
-Threat Modeling for Cloud Systems
+Zero Trust Architecture  
+Infrastructure Security Automation  
+Threat Modeling for Cloud Systems  
+Secure AI Platform Design
 
 ---
 
 ## Tech Stack
 
-Cloud Platforms  
+**Cloud Platforms**
+
 GCP • AWS • Azure
 
-Infrastructure  
+**Infrastructure**
+
 Terraform • Kubernetes • Docker
 
-Security  
-IAM • Network Security • DevSecOps • Runtime Security
+**Security**
+
+IAM • Network Security • DevSecOps • Runtime Security • Cloud Governance
 
 ---
 
