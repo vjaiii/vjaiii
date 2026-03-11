@@ -73,3 +73,12 @@ https://www.linkedin.com/in/vijay-kumar-385b27219/
 
 GitHub  
 https://github.com/vjaiii
+
+
+
+## Currently Exploring
+
+- GenAI security architecture
+- Secure RAG implementations
+- Cloud governance and guardrails
+- Platform security automation
