@@ -63,7 +63,7 @@ IAM • Network Security • DevSecOps • Runtime Security
 ## Connect with me
 
 LinkedIn  
-https://www.linkedin.com/in/vijay-kumar-3
+https://www.linkedin.com/in/vijay-kumar-385b27219/
 
 GitHub  
 https://github.com/vjaiii
