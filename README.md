@@ -116,6 +116,8 @@ GitHub
 https://github.com/vjaiii
 
 
+
+
 ## Cloud Security Architecture Patterns
 
 Below are some architecture patterns and security workflows I frequently work with across cloud environments.
@@ -127,7 +129,6 @@ Below are some architecture patterns and security workflows I frequently work wi
 Secure architecture considerations for LLM and AI workloads including identity, service isolation, and monitoring.
 
 ![GenAI Security](genai-security-architecture.png)
-
 ---
 
 ### DevSecOps Security Pipeline
