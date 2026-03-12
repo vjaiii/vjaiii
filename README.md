@@ -114,3 +114,49 @@ https://www.linkedin.com/in/vijay-kumar-385b27219/
 
 GitHub  
 https://github.com/vjaiii
+
+
+## Cloud Security Architecture Patterns
+
+Below are some architecture patterns and security workflows I frequently work with across cloud environments.
+
+---
+
+### GenAI Security Architecture
+
+Secure architecture considerations for LLM and AI workloads including identity, service isolation, and monitoring.
+
+![GenAI Security](genai-security-architecture.png)
+
+---
+
+### DevSecOps Security Pipeline
+
+A secure CI/CD pipeline integrating static analysis, secrets scanning, container security, and controlled deployment.
+
+![DevSecOps Pipeline](devsecops-security-pipeline.png)
+
+---
+
+### Terraform Cloud Security Architecture
+
+Infrastructure as Code security workflow using policy checks and automated validation before infrastructure deployment.
+
+![Terraform Security](terraform-cloud-security.png)
+
+---
+
+### Kubernetes Security Layers
+
+Security layers for Kubernetes environments including RBAC, network policies, pod security, and runtime monitoring.
+
+![Kubernetes Security](kubernetes-security-layers.png)
+
+---
+
+### Zero Trust Cloud Architecture
+
+Secure access design using identity-based access, proxy enforcement, private services, and monitoring.
+
+![Zero Trust](zero-trust-cloud-architecture.png)
+
