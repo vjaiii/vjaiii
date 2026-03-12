@@ -117,10 +117,12 @@ https://github.com/vjaiii
 
 
 ---
+---
 
 ## Cloud Security Architecture Patterns
 
 Below are some architecture patterns and security workflows I frequently work with across cloud environments.
+
 
 ---
 
