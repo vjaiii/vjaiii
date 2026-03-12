@@ -1,12 +1,12 @@
 # Hi, I'm Vijay 👋
 
-Cloud Security Architect specializing in secure cloud platforms, DevSecOps pipelines, and AI security architectures across GCP, AWS, and Azure.
+Cloud Security Architect focused on building secure cloud platforms, DevSecOps pipelines, and AI-enabled systems across modern cloud environments.
 
-I work at the intersection of **cloud security, platform engineering, and AI security**, helping organizations build scalable infrastructure while keeping identity, data, and workloads protected.
+I work at the intersection of **cloud security, platform engineering, and AI security**, designing architectures that help organizations scale infrastructure while protecting identity, data, and workloads.
 
 ---
 
-## What I focus on
+## 🔐 Areas I Focus On
 
 Cloud Security Architecture  
 DevSecOps and Secure CI/CD  
@@ -17,68 +17,100 @@ Multi-Cloud Platforms (GCP • AWS • Azure)
 
 ---
 
-## Featured Repositories
+## 📂 Featured Repositories
 
-🔹 **GenAI Cloud Security Patterns**  
-Security considerations and architecture patterns for LLM systems, RAG architectures, and AI workloads.
+### GenAI Cloud Security Patterns
+Security considerations and architecture ideas for **LLM systems, RAG architectures, and AI workloads**.
 
-🔹 **Terraform Cloud Security Blueprints**  
-Reference Terraform structures for building secure cloud foundations across GCP, AWS, and Azure.
-
-🔹 **DevSecOps Security Pipeline Patterns**  
-Secure CI/CD workflows integrating SAST, IaC scanning, container security, and policy checks.
-
-🔹 **Cloud Security Architecture Patterns**  
-Design patterns for secure enterprise cloud platforms and zero-trust architectures.
-
-🔹 **Kubernetes Security Hardening Guide**  
-Workload security, runtime protection, and cluster security practices.
-
-🔹 **Cloud Incident Response Playbooks**  
-Practical response playbooks for cloud security incidents and investigations.
+Repo →  
+https://github.com/vjaiii/genai-cloud-security-patterns
 
 ---
 
-## Areas of Interest
+### Terraform Cloud Security Blueprints
+Reference Terraform structures for building **secure cloud foundations across GCP, AWS, and Azure**.
 
-AI / GenAI Security  
-Cloud Platform Security  
-Zero Trust Architecture  
-Infrastructure Security Automation  
-Threat Modeling for Cloud Systems  
-Secure AI Platform Design
+Repo →  
+https://github.com/vjaiii/terraform-cloud-security-blueprints
 
 ---
 
-## Tech Stack
+### DevSecOps Security Pipeline Patterns
+Secure CI/CD workflows integrating:
 
-**Cloud Platforms**
+• SAST  
+• secrets scanning  
+• container security  
+• infrastructure scanning  
+• policy validation  
 
+Repo →  
+https://github.com/vjaiii/devsecops-security-pipeline-patterns
+
+---
+
+### Kubernetes Security Hardening Guide
+Practical guidance for:
+
+• RBAC design  
+• workload security  
+• network policies  
+• secrets protection  
+• runtime monitoring  
+
+Repo →  
+https://github.com/vjaiii/kubernetes-security-hardening-guide
+
+---
+
+### Cloud Security Architecture Patterns
+Architecture notes and design ideas for **secure enterprise cloud platforms**.
+
+Repo →  
+https://github.com/vjaiii/cloud-security-architecture-patterns
+
+---
+
+### Cloud Incident Response Playbooks
+Response playbooks for cloud incidents including:
+
+• IAM compromise  
+• suspicious API activity  
+• data exposure scenarios  
+• Kubernetes incident triage  
+
+Repo →  
+https://github.com/vjaiii/cloud-incident-response-playbooks
+
+---
+
+## 🧠 Topics I’m Currently Exploring
+
+GenAI security architectures  
+Secure RAG systems  
+Cloud platform guardrails  
+Zero-Trust cloud architectures  
+Security automation in DevSecOps pipelines
+
+---
+
+## ⚙️ Technology Stack
+
+### Cloud Platforms
 GCP • AWS • Azure
 
-**Infrastructure**
-
+### Infrastructure
 Terraform • Kubernetes • Docker
 
-**Security**
-
+### Security
 IAM • Network Security • DevSecOps • Runtime Security • Cloud Governance
 
 ---
 
-## Connect with me
+## 🌐 Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/vijay-kumar-385b27219/
 
 GitHub  
 https://github.com/vjaiii
-
-
-
-## Currently Exploring
-
-- GenAI security architecture
-- Secure RAG implementations
-- Cloud governance and guardrails
-- Platform security automation
