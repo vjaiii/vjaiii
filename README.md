@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm **Vijay Kumar Devineni** — a **Multi Cloud Gen AI Security Architect** and **Sr Site Reliability Engineer** with **13+ years** of experience architecting secure, scalable, and intelligent cloud systems across **GCP, AWS, Azure**, and **OCI**.
+I'm **Vijay Kumar Devineni** - a **Multi Cloud Gen AI Security Architect** and **Sr Site Reliability Engineer** with **13+ years** of experience architecting secure, scalable, and intelligent cloud systems across **GCP, AWS, Azure**, and **OCI**.
 
 I live at the intersection of **Cloud Security**, **GenAI Engineering**, and **Platform Reliability** — designing architectures that help organizations scale infrastructure while protecting identity, data, and workloads at every layer.
 
