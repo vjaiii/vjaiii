@@ -16,11 +16,11 @@ I'm **Vijay Kumar Devineni** - a **Multi Cloud Gen AI Security Architect** and *
 
 I live at the intersection of **Cloud Security**, **GenAI Engineering**, and **Platform Reliability** — designing architectures that help organizations scale infrastructure while protecting identity, data, and workloads at every layer.
 
-- 🧠 **Passionate about AI Security** — from LLM Red Teaming to Agentic AI Governance and MCP Security
-- ☁️ **Multi-Cloud Native** — architecting Landing Zones, Zero Trust, and CNAPP solutions at enterprise scale
-- 🔐 **Security-First Builder** — CSPM, DSPM, CWPP, CIEM, and supply chain security are my daily craft
-- ✍️ **Content Creator** — sharing insights on YouTube, Medium, and Instagram for the cloud & AI community
-- 📊 **SRE at Heart** — SLO design, chaos engineering, toil elimination, and blameless postmortem culture
+- 🧠 **Passionate about AI Security** - from LLM Red Teaming to Agentic AI Governance and MCP Security
+- ☁️ **Multi-Cloud Native** - architecting Landing Zones, Zero Trust, and CNAPP solutions at enterprise scale
+- 🔐 **Security-First Builder** - CSPM, DSPM, CWPP, CIEM, and supply chain security are my daily craft
+- ✍️ **Content Creator** - sharing insights on YouTube, Medium, and Instagram for the cloud & AI community
+- 📊 **SRE at Heart** - SLO design, chaos engineering, toil elimination, and blameless postmortem culture
 
 ---
 
