@@ -1,4 +1,4 @@
-# Vijay Kumar Devineni
+# Vijay Devineni
 
 AI, Cloud and Infrastructure Security Architect - Governance, Risk and Compliance.
 
