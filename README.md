@@ -18,13 +18,14 @@ AI, Cloud and Infrastructure Security Architect - Governance, Risk and Complianc
 
 | Repo | What it is |
 |---|---|
+| [cloud-grc-control-library](https://github.com/vjaiii/cloud-grc-control-library) | 27 machine-readable controls mapped across NIST, ISO, SOC 2, HIPAA, PCI and CIS, with OPA policies, Terraform gates and evidence collectors for GCP, AWS and Azure. CI-tested. |
 | [terraform-cloud-security-blueprints](https://github.com/vjaiii/terraform-cloud-security-blueprints) | Reference Terraform for secure cloud foundations across GCP, AWS and Azure |
 | [devsecops-security-pipeline-patterns](https://github.com/vjaiii/devsecops-security-pipeline-patterns) | CI/CD reference patterns with SAST, secrets, IaC and container scanning and policy gates |
 | [cloud-incident-response-playbooks](https://github.com/vjaiii/cloud-incident-response-playbooks) | Runbooks for cloud, IAM, Kubernetes and data exposure incidents |
 | [genai-cloud-security-patterns](https://github.com/vjaiii/genai-cloud-security-patterns) | Security patterns for GenAI and LLM workloads across the three clouds |
 | [kubernetes-security-hardening-guide](https://github.com/vjaiii/kubernetes-security-hardening-guide) | Workload protection, access control and runtime hardening for Kubernetes |
 
-Next up: a machine-readable cloud GRC control library and an AI governance toolkit.
+Next up: an AI governance toolkit - intake, risk tiering and agent security review mapped to NIST AI RMF and ISO 42001.
 
 ## Writing
 
