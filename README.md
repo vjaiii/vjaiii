@@ -1,7 +1,7 @@
 ![Vijay Kumar Devineni - cloud security, governance, risk and compliance](profile-banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kumar-385b27219/)
-[![Medium](https://img.shields.io/badge/Medium-%40vjaiii-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@vjaiii)
+[![Medium](https://img.shields.io/badge/Medium-%40devinenivijaykumar-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@devinenivijaykumar)
 [![Email](https://img.shields.io/badge/Email-vijaykumard322%40gmail.com-9BE8C4?style=flat&logo=gmail&logoColor=0E1116)](mailto:vijaykumard322@gmail.com)
 
 AI, Cloud and Infrastructure Security Architect - Governance, Risk and Compliance.
@@ -33,4 +33,4 @@ Next up: an AI governance toolkit - intake, risk tiering and agent security revi
 
 ## Writing
 
-Short-form on [LinkedIn](https://www.linkedin.com/in/vijay-kumar-385b27219/), long-form on [Medium](https://medium.com/@vjaiii).
+Short-form on [LinkedIn](https://www.linkedin.com/in/vijay-kumar-385b27219/), long-form on [Medium](https://medium.com/@devinenivijaykumar).
