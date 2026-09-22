@@ -1,4 +1,8 @@
-# Vijay Devineni
+![Vijay Kumar Devineni - cloud security, governance, risk and compliance](profile-banner.png)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kumar-385b27219/)
+[![Medium](https://img.shields.io/badge/Medium-%40vjaiii-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@vjaiii)
+[![Email](https://img.shields.io/badge/Email-vijaykumard322%40gmail.com-9BE8C4?style=flat&logo=gmail&logoColor=0E1116)](mailto:vijaykumard322@gmail.com)
 
 AI, Cloud and Infrastructure Security Architect - Governance, Risk and Compliance.
 
@@ -18,7 +22,7 @@ AI, Cloud and Infrastructure Security Architect - Governance, Risk and Complianc
 
 | Repo | What it is |
 |---|---|
-| [cloud-grc-control-library](https://github.com/vjaiii/cloud-grc-control-library) | 27 machine-readable controls mapped across NIST, ISO, SOC 2, HIPAA, PCI and CIS, with OPA policies, Terraform gates and evidence collectors for GCP, AWS and Azure. CI-tested. |
+| [cloud-grc-control-library](https://github.com/vjaiii/cloud-grc-control-library) [![ci](https://github.com/vjaiii/cloud-grc-control-library/actions/workflows/ci.yml/badge.svg)](https://github.com/vjaiii/cloud-grc-control-library/actions/workflows/ci.yml) | 27 machine-readable controls mapped across NIST, ISO, SOC 2, HIPAA, PCI and CIS, with OPA policies, Terraform gates and evidence collectors for GCP, AWS and Azure |
 | [terraform-cloud-security-blueprints](https://github.com/vjaiii/terraform-cloud-security-blueprints) | Reference Terraform for secure cloud foundations across GCP, AWS and Azure |
 | [devsecops-security-pipeline-patterns](https://github.com/vjaiii/devsecops-security-pipeline-patterns) | CI/CD reference patterns with SAST, secrets, IaC and container scanning and policy gates |
 | [cloud-incident-response-playbooks](https://github.com/vjaiii/cloud-incident-response-playbooks) | Runbooks for cloud, IAM, Kubernetes and data exposure incidents |
@@ -30,7 +34,3 @@ Next up: an AI governance toolkit - intake, risk tiering and agent security revi
 ## Writing
 
 Short-form on [LinkedIn](https://www.linkedin.com/in/vijay-kumar-385b27219/), long-form on [Medium](https://medium.com/@vjaiii).
-
-## Contact
-
-vijaykumard322@gmail.com
